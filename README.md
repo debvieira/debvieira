@@ -3,4 +3,4 @@
 </div>
 
 #### 📚 I'm passionate about the field of data and all its transformative potential
-#### 📊 I work with Python, NoSQL, SQL, Google Sheets, Excel, Machine Learning and Power BI
+#### 📊 I work with Python, NoSQL, SQL, Google Sheets, Excel, ML, IA and Data Viz (Power BI)
